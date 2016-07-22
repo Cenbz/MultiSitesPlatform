@@ -1,2 +1,2 @@
 # MultiSitesPlatform
-记账管理系统
+多站点平台管理
